@@ -1,0 +1,75 @@
+lead_id,industry,lead_source,monthly_budget,employee_count,location,days_to_first_contact,interaction_score,previous_purchases,customer_lifetime_value,converted
+1,Technology,Website,5000,150,Nairobi,3,85,2,High,Yes
+2,Retail,Email Campaign,2000,50,Lagos,5,60,0,Low,No
+3,Manufacturing,Referral,3000,200,London,2,75,1,Medium,Yes
+4,Healthcare,Social Media,4000,80,Cape Town,7,45,0,Medium,No
+5,Finance,Paid Ads,6000,300,Mumbai,4,90,3,High,Yes
+6,Technology,Website,4500,120,Nairobi,6,70,1,Medium,Yes
+7,Retail,Email Campaign,1500,30,Lagos,8,50,0,Low,No
+8,Manufacturing,Social Media,2500,100,London,3,65,0,Medium,No
+9,Healthcare,Referral,3500,60,Cape Town,5,80,2,High,Yes
+10,Finance,Paid Ads,5500,250,Mumbai,2,95,4,High,Yes
+11,Technology,Website,4800,170,Nairobi,4,82,1,Medium,Yes
+12,Retail,Social Media,1800,40,Lagos,6,55,0,Low,No
+13,Manufacturing,Email Campaign,3200,180,London,3,70,1,Medium,Yes
+14,Healthcare,Paid Ads,3800,90,Cape Town,5,60,0,Medium,No
+15,Finance,Referral,6500,400,Mumbai,2,92,3,High,Yes
+16,Technology,Website,5200,140,Nairobi,4,78,2,High,Yes
+17,Retail,Email Campaign,2200,60,Lagos,7,48,0,Low,No
+18,Manufacturing,Social Media,2800,110,London,6,62,0,Medium,No
+19,Healthcare,Referral,4100,70,Cape Town,3,85,2,High,Yes
+20,Finance,Paid Ads,5700,280,Mumbai,5,88,3,High,Yes
+21,Technology,Website,4900,160,Nairobi,2,80,1,Medium,Yes
+22,Retail,Social Media,1900,45,Lagos,8,52,0,Low,No
+23,Manufacturing,Email Campaign,3400,190,London,4,72,1,Medium,Yes
+24,Healthcare,Paid Ads,3900,85,Cape Town,6,58,0,Medium,No
+25,Finance,Referral,6200,350,Mumbai,3,90,3,High,Yes
+26,Technology,Website,5100,130,Nairobi,5,76,2,High,Yes
+27,Retail,Email Campaign,2100,55,Lagos,7,50,0,Low,No
+28,Manufacturing,Social Media,2700,120,London,4,64,0,Medium,No
+29,Healthcare,Referral,4000,65,Cape Town,3,83,2,High,Yes
+30,Finance,Paid Ads,5600,270,Mumbai,2,93,4,High,Yes
+31,Technology,Website,4700,180,Nairobi,5,79,1,Medium,Yes
+32,Retail,Social Media,2000,50,Lagos,6,54,0,Low,No
+33,Manufacturing,Email Campaign,3100,170,London,3,71,1,Medium,Yes
+34,Healthcare,Paid Ads,3700,95,Cape Town,7,59,0,Medium,No
+35,Finance,Referral,6400,380,Mumbai,2,91,3,High,Yes
+36,Technology,Website,5300,150,Nairobi,4,77,2,High,Yes
+37,Retail,Email Campaign,2300,60,Lagos,8,49,0,Low,No
+38,Manufacturing,Social Media,2900,130,London,5,63,0,Medium,No
+39,Healthcare,Referral,4200,75,Cape Town,3,84,2,High,Yes
+40,Finance,Paid Ads,5800,290,Mumbai,2,94,4,High,Yes
+41,Technology,Website,5000,140,Nairobi,4,81,1,Medium,Yes
+42,Retail,Social Media,1800,40,Lagos,7,53,0,Low,No
+43,Manufacturing,Email Campaign,3300,200,London,3,73,1,Medium,Yes
+44,Healthcare,Paid Ads,3800,80,Cape Town,6,57,0,Medium,No
+45,Finance,Referral,6300,360,Mumbai,2,89,3,High,Yes
+46,Technology,Website,5200,160,Nairobi,5,78,2,High,Yes
+47,Retail,Email Campaign,2200,50,Lagos,8,51,0,Low,No
+48,Manufacturing,Social Media,2800,110,London,4,65,0,Medium,No
+49,Healthcare,Referral,4100,70,Cape Town,3,82,2,High,Yes
+50,Finance,Paid Ads,5700,300,Mumbai,2,92,4,High,Yes
+51,Technology,Website,4800,170,Nairobi,5,80,1,Medium,Yes
+52,Retail,Social Media,1900,45,Lagos,7,54,0,Low,No
+53,Manufacturing,Email Campaign,3400,180,London,3,70,1,Medium,Yes
+54,Healthcare,Paid Ads,3900,85,Cape Town,6,58,0,Medium,No
+55,Finance,Referral,6200,350,Mumbai,2,90,3,High,Yes
+56,Technology,Website,5100,130,Nairobi,4,76,2,High,Yes
+57,Retail,Email Campaign,2100,55,Lagos,8,50,0,Low,No
+58,Manufacturing,Social Media,2700,120,London,5,64,0,Medium,No
+59,Healthcare,Referral,4000,65,Cape Town,3,83,2,High,Yes
+60,Finance,Paid Ads,5600,270,Mumbai,2,93,4,High,Yes
+61,Technology,Website,4700,180,Nairobi,5,79,1,Medium,Yes
+62,Retail,Social Media,2000,50,Lagos,6,54,0,Low,No
+63,Manufacturing,Email Campaign,3100,170,London,3,71,1,Medium,Yes
+64,Healthcare,Paid Ads,3700,95,Cape Town,7,59,0,Medium,No
+65,Finance,Referral,6400,380,Mumbai,2,91,3,High,Yes
+66,Technology,Website,5300,150,Nairobi,4,77,2,High,Yes
+67,Retail,Email Campaign,2300,60,Lagos,8,49,0,Low,No
+68,Manufacturing,Social Media,2900,130,London,5,63,0,Medium,No
+69,Healthcare部分2,Healthcare,Referral,4200,75,Cape Town,3,84,2,High,Yes
+70,Finance,Paid Ads,5800,290,Mumbai,2,94,4,High,Yes
+71,Technology,Website,5000,140,Nairobi,4,81,1,Medium,Yes
+72,Retail,Social Media,1800,40,Lagos,7,53,0,Low,No
+73,Manufacturing,Email Campaign,3300,200,London,3,73,1,Medium,Yes
+74,Healthcare,Paid…
